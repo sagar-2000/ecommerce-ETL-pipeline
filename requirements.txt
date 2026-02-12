@@ -1,0 +1,9 @@
+psycopg2
+pandas
+ipykernel
+sqlalchemy
+python-dotenv
+scikit-learn
+streamlit
+plotly
+
