@@ -108,8 +108,6 @@ pip install -r requirements.txt
 
 Create a `.env` file in the root directory of the project to securely store database credentials.
 
-> ⚠️ This file should NOT be committed to Git.
-
 ```env
 DB_HOST=localhost
 DB_PORT=5432
